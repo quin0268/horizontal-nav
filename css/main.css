@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  background-color:
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Bevan", serif;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.tab {
+  font-family: sans-serif;
+  color: #fff;
+  display: block;
+  padding: .5em;
+  background-color: #713837;
+}
+
+.tab a:hover {
+  background-color: #f33;
+}
